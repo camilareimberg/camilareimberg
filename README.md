@@ -1,5 +1,8 @@
-### Welcomee, I'm Camila!! 
-I'm currently studying at Labenu to improve my  skills and be a Web Full Stack Developer pretty soon. 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33A5FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33A5FF&size=35&center=true&vCenter=true&width=1000&lines=WELCOMEE!!+I'M+CAMILA+REIMBERG+👋)](https://git.io/typing-svg)
+
+I'm currently studying at Labenu to improve my  skills and be a Web Full Stack Developer pretty soon. 📜
 
 Here are some ideas to get you started:
 
