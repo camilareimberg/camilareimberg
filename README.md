@@ -9,7 +9,7 @@ Besides that, I'm continuously optimizing my analysis and expanding my Python la
 Here are some ideas to get you started:
 
 - 👩‍💻 I’m working at Decathlon where I've been able to prove my abilities to deliver results and hone my skills with international negotiations
-- 🤓 I’m Engineer studying HTML, CSS, JavaScript, React, Node.js, TypeScript, SQL, Express, Knex, API’s, POO, Git, GitHub, AWS, Firebase
+- 🤓 I’m Engineer studying Python, SQL, HTML, CSS, JavaScript, React, Node.js, TypeScript, Express, Knex, API’s, POO, Git, GitHub, AWS, Firebase
 - 💁‍♀️ Pronouns: She/ Her/ Hers
 - ⚡ Fun fact: Crazy about home organizing and I say hi for all the dogs I see at the streets
 
