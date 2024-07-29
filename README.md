@@ -6,7 +6,7 @@ I'm continuously optimizing my analysis and expanding my Python language skills,
 
 Here are some ideas to get you started:
 
-- 🤓 I’m Engineer studying Python and SQL. Also, I have completed a Bootcamp (July 2023) of Web Full Stack Developer and currently improving my Data Analytics skills with Womakerscode community. Main Stacks are: Pythom, SQL, HTML, CSS, JavaScript, React, API’s, POO, Git, GitHub, AWS, Firebase.
+- 🤓 I’m Engineer studying Python and SQL. Also, I have completed a Bootcamp (July 2023) of Web Full Stack Developer and currently improving my Data Analytics skills with Womakerscode community. Main Stacks are: Python, SQL, Excel, Power BI, HTML, CSS, JavaScript, API’s, POO, Git, GitHub, AWS.
 - 
 - 💁‍♀️ Pronouns: She/ Her/ Hers.
 - 
