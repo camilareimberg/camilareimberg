@@ -6,9 +6,7 @@ I'm continuously optimizing my analysis and expanding my Python language skills,
 
 Here are some ideas to get you started:
 
-- 👩‍💻 I’m working at Decathlon where I've been able to prove my abilities to deliver results and hone my skills with international negotiations.
-- 
-- 🤓 I’m Engineer studying Python and SQL. Also, I have completed a Bootcamp (July 2023) of Web Full Stack Developer. I have improved my skills with more than 1000 hour classes. Main Stacks are: HTML, CSS, JavaScript, React, Node.js, TypeScript, Express, Knex, API’s, POO, Git, GitHub, AWS, Firebase.
+- 🤓 I’m Engineer studying Python and SQL. Also, I have completed a Bootcamp (July 2023) of Web Full Stack Developer and currently improving my Data Analytics skills with Womakerscode community. Main Stacks are: Pythom, SQL, HTML, CSS, JavaScript, React, API’s, POO, Git, GitHub, AWS, Firebase.
 - 
 - 💁‍♀️ Pronouns: She/ Her/ Hers.
 - 
