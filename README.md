@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33A5FF&size=35&center=true&vCenter=true&width=1000&lines=WELCOMEE!!+I'M+CAMILA+REIMBERG+👋)](https://git.io/typing-svg)
 
-I'm continuously optimizing my analysis and expanding my Python language skills, while also applying my knowledge in building Data Science Cases. I also build dashboards using Power BI and Google Data Studio to make my current job routine easier.
-
 Here are some ideas to get you started:
 
 - 🤓 I’m Engineer studying Python and SQL. Also, I have completed a Bootcamp (July 2023) of Web Full Stack Developer and currently improving my Data Analytics skills with Womakerscode community. Main Stacks are: Python, SQL, Excel, Power BI, HTML, CSS, JavaScript, API’s, POO, Git, GitHub, AWS.
